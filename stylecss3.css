@@ -1,0 +1,130 @@
+.type {
+    text-align: center;
+}
+
+.type1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    line-height: 150px;
+}
+
+.taylor-pic {
+    background-color: black;
+    color: green;
+    font-size: 100px;
+}
+
+.table {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.table1 {
+    background-color: rgb(0, 122, 245);
+    color: white;
+}
+
+.table2 {
+    background-color: white;
+}
+
+td {
+    padding: 10px;
+}
+
+.view {
+    background-color: rgb(0, 198, 0);
+    line-height: 20px;
+    border: none;
+    color: white;
+}
+
+.update {
+    background-color: rgb(253, 232, 0);
+    line-height: 20px;
+    border: none;
+    color: black;
+}
+
+.delete {
+    background-color: red;
+    line-height: 20px;
+    border: none;
+    color: white;
+}
+
+.tille {
+    width: 750px;
+    height: 550px;
+}
+
+.component-5 {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.65;
+}
+
+time {
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+}
+
+p {
+    opacity: 0.75;
+}
+
+.component-6 {
+    padding-left: 10px;
+    border-left: 10px solid goldenrod;
+    background-color: bisque;
+}
+
+.component-7 {
+    background-color: rgb(0, 122, 245);
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    padding: 20px;
+}
+
+.component-7-1 {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.component-7-2 {
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    line-height: 50px;
+}
+
+hr {
+    border-top: dotted;
+    opacity: 0.5;
+}
+
+.component-8 {
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+}
+
+.component-8-title {
+    width: 550px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.img {
+    border-radius: 10px;
+}
+
+.line {
+    border-left: solid 3px;
+    opacity: 0.1;
+}
