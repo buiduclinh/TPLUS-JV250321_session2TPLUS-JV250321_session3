@@ -18,6 +18,8 @@
 .table {
     text-align: center;
     background-color: aliceblue;
+    height: 100%;
+    width: 100%;
 }
 
 .table1 {
@@ -29,7 +31,8 @@
     background-color: white;
 }
 
-td {
+td,
+th {
     padding: 10px;
 }
 
